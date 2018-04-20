@@ -1,0 +1,6 @@
+diferencia adaline con perceptron
+
+es que tiene una funcion lineal que precede a la funcion de activacion (heaviside)
+
+
+setwd("C:/Users/Propietario/Desktop/Udemys/R/r-course-master")
